@@ -2,10 +2,32 @@
 //
 
 #include <iostream>
+#include <vector>
+using namespace std;
+void iterate(vector<int> nums) {
+    int i = 0;
+    for (i = 0; i < nums.size(); i++) {
+        cout << "The num at index " << i << " is " << nums.at(i) << "\n";
+    }
+}
+
+    
+    
+
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
+    //declare the array
+    vector<int> nums;
+    //push back puts the element at the end of the array
+    nums.push_back(1);
+    nums.push_back(2);
+
+    iterate(nums);
+
+    return 1;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
