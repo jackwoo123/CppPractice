@@ -1,0 +1,2 @@
+C:\Users\jackp\OneDrive\Desktop\C++\CppPractice\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\jackp\OneDrive\Desktop\C++\CppPractice\pointerPractice\Debug\ConsoleApplication1.exe
