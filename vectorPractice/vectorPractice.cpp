@@ -26,7 +26,7 @@ int main()
     nums.push_back(2);
 
     iterate(nums);
-
+    printf("Why ever use cout any ways?");
     return 1;
 }
 
